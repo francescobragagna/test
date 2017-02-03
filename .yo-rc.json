@@ -1,0 +1,10 @@
+{
+  "generator-web": {
+    "appName": "primaApp",
+    "includeModernizr": true,
+    "includeUnderscore": true,
+    "includeFontAwesome": true,
+    "includeRespond": false,
+    "includeHtml5shiv": false
+  }
+}
